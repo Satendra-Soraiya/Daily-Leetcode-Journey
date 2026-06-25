@@ -13,12 +13,34 @@ A collection of LeetCode questions that i am solving Daily !
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
