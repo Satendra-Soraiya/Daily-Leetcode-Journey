@@ -19,6 +19,7 @@ A collection of LeetCode questions that i am solving Daily !
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -55,4 +56,12 @@ A collection of LeetCode questions that i am solving Daily !
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
