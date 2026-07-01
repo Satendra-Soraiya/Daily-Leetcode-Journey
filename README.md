@@ -96,4 +96,16 @@ A collection of LeetCode questions that i am solving Daily !
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Linked List
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
