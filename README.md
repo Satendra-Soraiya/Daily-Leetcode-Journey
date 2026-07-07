@@ -35,6 +35,7 @@ A collection of LeetCode questions that i am solving Daily !
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
 |  |
 | ------- |
