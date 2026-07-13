@@ -71,6 +71,7 @@ A collection of LeetCode questions that i am solving Daily !
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
 |  |
