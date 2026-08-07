@@ -1,4 +1,4 @@
-class Solution {
+ class Solution {
   public String smallestNumber(String num, long t) {
     Pair<Map<Integer, Integer>, Boolean> primeCountResult = getPrimeCount(t);
     Map<Integer, Integer> primeCount = primeCountResult.getKey();
@@ -137,5 +137,6 @@ class Solution {
     return count.values().stream().mapToInt(Integer::intValue).sum();
   }
 }
+
 
 
