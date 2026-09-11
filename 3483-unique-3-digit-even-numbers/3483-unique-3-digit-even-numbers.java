@@ -20,7 +20,7 @@ class Solution {
   private boolean nextPermutation(int[] nums) {
     final int n = nums.length;
 
-
+    // From the back to the front, find the first num < nums[i + 1].
     int i;
     for (i = n - 2; i >= 0; --i)
       if (nums[i] < nums[i + 1])
@@ -29,13 +29,15 @@ class Solution {
     if (i < 0)
       return false;
 
+    // From the back to the front, find the first num > nums[i] and swap it with
+    // nums[i].
     for (int j = n - 1; j > i; --j)
       if (nums[j] > nums[i]) {
         swap(nums, i, j);
         break;
       }
 
-
+    // Reverse nums[i + 1..n - 1].
     reverse(nums, i + 1, n - 1);
     return true;
   }
