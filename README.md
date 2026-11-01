@@ -49,6 +49,7 @@ A collection of LeetCode questions that i am solving Daily !
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/0835-image-overlap) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions that i am solving Daily !
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/0836-rectangle-overlap) |
