@@ -60,6 +60,7 @@ A collection of LeetCode questions that i am solving Daily !
 | [1140-stone-game-ii](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions that i am solving Daily !
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions that i am solving Daily !
 | [0301-remove-invalid-parentheses](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions that i am solving Daily !
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/2685-count-the-number-of-complete-components) |
@@ -412,6 +416,7 @@ A collection of LeetCode questions that i am solving Daily !
 | [0835-image-overlap](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -475,6 +480,7 @@ A collection of LeetCode questions that i am solving Daily !
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Satendra-Soraiya/Daily-Leetcode-Journey/tree/master/2685-count-the-number-of-complete-components) |
